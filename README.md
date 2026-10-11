@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Sanjith
 
-<!--
-**Sanjith-ux/Sanjith-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering undergraduate
+💻 I enjoy building web apps, working with databases, and learning cloud technologies
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/sanjith-gunaratne-22ba7b395/)
 
-Here are some ideas to get you started:
+## Technologies:
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,nodejs,mongodb,mysql,postgres,git" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanjith-ux&show_icons=true&theme=dark&custom_title=My%20GitHub%20Statistics" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjith-ux&layout=compact&custom_title=My%20Programming%20Languages" />
+</p>
